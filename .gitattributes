@@ -1,0 +1,3 @@
+*.bf linguist-language=Brainfuck
+*.bf linguist-detectable=true
+*.md linguist-documentation
